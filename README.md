@@ -1,7 +1,7 @@
 ## Sobre mim
 👋 Olá! Meu nome é Andre Pimentel e sou estudante de Engenharia Agrícola e Ambiental na Universidade Federal Fluminense. 
 
-💻 Atualmente, trabalho como estagiário em Análise de Dados na Atmosmarine, uma startup que oferece previsões climáticas e monitoramento ambiental utilizando inteligência artificial.
+💻 Atualmente, trabalho como estagiário em Ciência de Dados e Geoprocessamento na Atmosmarine, uma startup que oferece previsões climáticas e monitoramento ambiental utilizando inteligência artificial.
 
 Tenho grande interesse por análise de dados e sustentabilidade. Por isso, procuro alinhar os dois em (quase) todas as minhas atividades profissionais e acadêmicas! 📈🌱  
 
