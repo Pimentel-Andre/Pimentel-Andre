@@ -1,5 +1,5 @@
 ## Sobre mim
-👋 Olá! Meu nome é Andre Pimentel, Engenheiro Agrícola e Ambiental na Universidade Federal Fluminense. 
+👋 Olá! Meu nome é Andre Pimentel, Engenheiro Agrícola e Ambiental pela Universidade Federal Fluminense. 
 
 💻 Atualmente, trabalho como Analista em Geociências, atuando com Engenharia de Dados, Sensoriamento Remoto e Geoprocessamento na Atmosmarine, uma startup que oferece previsões climáticas e monitoramento ambiental utilizando inteligência artificial.
 
