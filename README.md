@@ -3,8 +3,6 @@
 
 💻 Atualmente, trabalho como Analista em Geociências, atuando com Engenharia de Dados, Sensoriamento Remoto e Geoprocessamento na Atmosmarine, uma startup que oferece previsões climáticas e monitoramento ambiental utilizando inteligência artificial.
 
-Tenho grande paixão em estruturar e gerar informações valiosas na área ambiental, alinhando tecnologia e sustentabilidade em minhas atividades profissionais e acadêmicas! 📈🌱  
-
 Espero aprender muito por aqui, além de contribuir com meus scripts voltados para ETL, análise e processamento de dados =)
 
 ## Ferramentas e Tecnologias
